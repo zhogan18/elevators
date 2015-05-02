@@ -84,3 +84,4 @@ floor 2: + floor_population: 2 people_waiting: 0
 floor 1: - floor_population: 0 people_waiting: 0
 floor 0: - floor_population: 1 people_waiting: 0
 amount_on_elevator: 0
+________________________ 
